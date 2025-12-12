@@ -24,6 +24,23 @@ The system classifies knee X-rays into **five OA severity grades**:
 
 ---
 
+Primary Source - Dataset:
+
+Osteoarthritis Initiative (OAI):
+
+
+These datasets contain longitudinal knee X-ray images labeled according to Kellgren–Lawrence (KL) grading, which were mapped to five OA severity classes:
+
+Healthy (0)
+
+Doubtful (1)
+
+Minimal (2)
+
+Moderate (3)
+
+Severe (4)
+
 ## 🧠 Methodology
 
 - **Model Architecture:** Xception (pre-trained on ImageNet)
